@@ -1,90 +1,168 @@
 ,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence,Title,Artist,Album,Popularity,Appreciation
-0,0.0462,0.734,202333,0.637,2.29e-05,4,0.0602,-5.677,0,0.141,169.977,4,0.648,Stressed Out,Twenty One Pilots,Blurryface,82,1
-1,0.00835,0.645,214507,0.713,0.0,6,0.113,-5.355,1,0.0393,74.989,4,0.566,Ride,Twenty One Pilots,Blurryface,81,1
-2,0.121,0.719,191493,0.645,0.00316,2,0.362,-6.141,0,0.0358,123.02,4,0.69,Doubt,Twenty One Pilots,Blurryface,68,1
+0,0.0462,0.734,202333,0.637,2.29e-05,4,0.0602,-5.677,0,0.141,169.977,4,0.648,Stressed Out,Twenty One Pilots,Blurryface,83,1
+1,0.00835,0.645,214507,0.713,0.0,6,0.113,-5.355,1,0.0393,74.989,4,0.566,Ride,Twenty One Pilots,Blurryface,82,1
+2,0.121,0.719,191493,0.645,0.00316,2,0.362,-6.141,0,0.0358,123.02,4,0.69,Doubt,Twenty One Pilots,Blurryface,69,1
 3,0.0573,0.616,253093,0.811,1.57e-05,7,0.0566,-4.804,1,0.0626,159.929,4,0.913,Lane Boy,Twenty One Pilots,Blurryface,72,1
 4,0.194,0.565,236733,0.437,7.14e-06,6,0.0656,-7.68,0,0.0403,96.132,3,0.217,Goner,Twenty One Pilots,Blurryface,68,1
-5,0.122,0.597,226787,0.666,0.00302,6,0.1,-6.365,0,0.0418,164.992,4,0.626,Polarize,Twenty One Pilots,Blurryface,68,1
-6,0.098,0.766,267720,0.519,0.0,9,0.0855,-7.355,0,0.0366,129.972,4,0.612,Car Radio,Twenty One Pilots,Vessel,75,1
-7,0.00694,0.684,273336,0.858,0.000167,1,0.0828,-4.266,1,0.0342,129.963,4,0.518,Guns For Hands,Twenty One Pilots,Vessel,67,1
-8,0.23,0.547,177200,0.936,3.04e-06,9,0.172,-4.023,1,0.102,120.003,4,0.642,We Don't Believe What's On TV,Twenty One Pilots,Blurryface,67,1
+5,0.122,0.597,226787,0.666,0.00302,6,0.1,-6.365,0,0.0418,164.992,4,0.626,Polarize,Twenty One Pilots,Blurryface,69,1
+6,0.098,0.766,267720,0.519,0.0,9,0.0855,-7.355,0,0.0366,129.972,4,0.612,Car Radio,Twenty One Pilots,Vessel,76,1
+7,0.00694,0.684,273336,0.858,0.000167,1,0.0828,-4.266,1,0.0342,129.963,4,0.518,Guns For Hands,Twenty One Pilots,Vessel,68,1
+8,0.23,0.547,177200,0.936,3.04e-06,9,0.172,-4.023,1,0.102,120.003,4,0.642,We Don't Believe What's On TV,Twenty One Pilots,Blurryface,68,1
 9,0.445,0.68,163880,0.693,0.0,0,0.208,-7.234,1,0.0435,114.948,4,0.851,House Of Gold,Twenty One Pilots,Vessel,72,1
-10,0.00302,0.562,158667,0.904,0.0,1,0.0433,-4.947,1,0.0807,94.481,4,0.651,Emperor's New Clothes,Panic! At The Disco,Death Of A Bachelor,73,1
-11,0.00155,0.572,187187,0.912,1.2e-06,7,0.102,-4.875,1,0.0707,156.073,4,0.606,This Is Gospel,Panic! At The Disco,"Too Weird To Live, Too Rare To Die!",74,1
-12,0.0137,0.462,203507,0.538,0.0,0,0.429,-5.527,1,0.059,139.256,4,0.405,Death Of A Bachelor,Panic! At The Disco,Death Of A Bachelor,76,1
-13,0.00205,0.57,178600,0.865,0.0,8,0.404,-4.518,1,0.0472,110.01,4,0.691,Victorious,Panic! At The Disco,Death Of A Bachelor,71,1
-14,0.0841,0.732,195920,0.396,3.58e-05,4,0.105,-9.348,0,0.0286,90.024,4,0.548,Heathens,Twenty One Pilots,Heathens,81,1
+10,0.00302,0.562,158667,0.904,0.0,1,0.0433,-4.947,1,0.0807,94.481,4,0.651,Emperor's New Clothes,Panic! At The Disco,Death Of A Bachelor,74,1
+11,0.00155,0.572,187187,0.912,1.2e-06,7,0.102,-4.875,1,0.0707,156.073,4,0.606,This Is Gospel,Panic! At The Disco,"Too Weird To Live, Too Rare To Die!",75,1
+12,0.0137,0.462,203507,0.538,0.0,0,0.429,-5.527,1,0.059,139.256,4,0.405,Death Of A Bachelor,Panic! At The Disco,Death Of A Bachelor,77,1
+13,0.00205,0.57,178600,0.865,0.0,8,0.404,-4.518,1,0.0472,110.01,4,0.691,Victorious,Panic! At The Disco,Death Of A Bachelor,72,1
+14,0.0841,0.732,195920,0.396,3.58e-05,4,0.105,-9.348,0,0.0286,90.024,4,0.548,Heathens,Twenty One Pilots,Heathens,82,1
 15,0.011,0.578,180627,0.886,0.0,11,0.143,-4.348,1,0.0633,80.008,4,0.615,Hallelujah,Panic! At The Disco,Death Of A Bachelor,69,1
 16,0.158,0.733,213200,0.636,0.0,9,0.32,-6.693,1,0.0299,99.996,4,0.591,The Pantaloon,Twenty One Pilots,Twenty One Pilots,60,1
-17,0.000247,0.455,198040,0.91,0.0,2,0.107,-4.464,1,0.166,114.109,4,0.447,Crazy=Genius,Panic! At The Disco,Death Of A Bachelor,67,1
-18,0.00329,0.556,254320,0.708,0.0,7,0.329,-5.708,1,0.039,128.006,4,0.206,Golden Days,Panic! At The Disco,Death Of A Bachelor,65,1
-19,0.474,0.174,202547,0.337,0.000294,10,0.11,-8.767,1,0.0313,85.574,3,0.0978,Impossible Year,Panic! At The Disco,Death Of A Bachelor,64,1
-20,0.00272,0.506,208707,0.817,0.0,11,0.0486,-5.051,0,0.0335,109.952,4,0.506,House Of Memories,Panic! At The Disco,Death Of A Bachelor,68,1
-21,0.154,0.61,296520,0.893,4.41e-05,9,0.021,-3.681,1,0.0921,104.031,4,0.673,Ain't It Fun,Paramore,Paramore,71,1
+17,0.000247,0.455,198040,0.91,0.0,2,0.107,-4.464,1,0.166,114.109,4,0.447,Crazy=Genius,Panic! At The Disco,Death Of A Bachelor,68,1
+18,0.00329,0.556,254320,0.708,0.0,7,0.329,-5.708,1,0.039,128.006,4,0.206,Golden Days,Panic! At The Disco,Death Of A Bachelor,66,1
+19,0.474,0.174,202547,0.337,0.000294,10,0.11,-8.767,1,0.0313,85.574,3,0.0978,Impossible Year,Panic! At The Disco,Death Of A Bachelor,65,1
+20,0.00272,0.506,208707,0.817,0.0,11,0.0486,-5.051,0,0.0335,109.952,4,0.506,House Of Memories,Panic! At The Disco,Death Of A Bachelor,69,1
+21,0.154,0.61,296520,0.893,4.41e-05,9,0.021,-3.681,1,0.0921,104.031,4,0.673,Ain't It Fun,Paramore,Paramore,72,1
 22,0.00652,0.47,200626,0.843,1.12e-05,11,0.0734,-4.994,0,0.0435,174.93,4,0.687,Songs I Can't Listen To,Neon Trees,Songs I Can't Listen To,46,1
-23,0.00563,0.47,177280,0.92,0.0,8,0.349,-3.855,1,0.0617,154.917,4,0.692,Everybody Talks,Neon Trees,Picture Show,62,1
+23,0.00563,0.47,177280,0.92,0.0,8,0.349,-3.855,1,0.0617,154.917,4,0.692,Everybody Talks,Neon Trees,Picture Show,63,1
 24,0.00647,0.695,182693,0.818,4.87e-06,5,0.0219,-5.379,0,0.0334,119.965,4,0.916,Hard Times,Paramore,Hard Times,63,1
-25,0.0524,0.779,204347,0.787,0.0,10,0.14,-4.305,0,0.108,124.982,4,0.708,Believer,Imagine Dragons,Evolve,85,1
-26,0.259,0.372,216707,0.806,2.21e-05,9,0.171,-6.298,1,0.0693,76.552,4,0.463,Toda la vida,Fuel Fandango,Toda la vida,24,1
-27,0.0921,0.652,233116,0.761,2.19e-05,2,0.288,-5.538,1,0.0443,127.967,4,0.328,Lo peor es lo mejor,Fangoria,Miscelánea de canciones para robótica avanzada,28,1
-28,0.000554,0.627,251227,0.816,1.67e-06,5,0.0945,-4.84,1,0.0263,128.01,4,0.509,El Peor Grupo del Mundo,Sidonie,El Peor Grupo del Mundo,51,1
-29,0.195,0.657,222000,0.867,0.0,1,0.0603,-3.525,0,0.0575,99.016,4,0.818,Toc Toc - Banda Sonora Original de la Película ”Toc Toc”,Macaco,Toc Toc (Banda Sonora Original de la Película ”Toc Toc”),56,1
-30,0.639,0.712,181067,0.821,0.000152,5,0.0891,-7.749,1,0.0387,94.941,4,0.957,Volar,Alvaro Soler,Eterno Agosto,46,1
-31,0.391,0.228,252907,0.517,0.0,7,0.29,-9.167,0,0.0401,109.83,3,0.204,"Friend, Please",Twenty One Pilots,Twenty One Pilots,63,1
+25,0.0524,0.779,204347,0.787,0.0,10,0.14,-4.305,0,0.108,124.982,4,0.708,Believer,Imagine Dragons,Evolve,86,1
+26,0.259,0.372,216707,0.806,2.21e-05,9,0.171,-6.298,1,0.0693,76.552,4,0.463,Toda la vida,Fuel Fandango,Toda la vida,23,1
+27,0.0921,0.652,233116,0.761,2.19e-05,2,0.288,-5.538,1,0.0443,127.967,4,0.328,Lo peor es lo mejor,Fangoria,Miscelánea de canciones para robótica avanzada,27,1
+28,0.000554,0.627,251227,0.816,1.67e-06,5,0.0945,-4.84,1,0.0263,128.01,4,0.509,El Peor Grupo del Mundo,Sidonie,El Peor Grupo del Mundo,52,1
+29,0.195,0.657,222000,0.867,0.0,1,0.0603,-3.525,0,0.0575,99.016,4,0.818,Toc Toc - Banda Sonora Original de la Película ”Toc Toc”,Macaco,Toc Toc (Banda Sonora Original de la Película ”Toc Toc”),53,1
+30,0.639,0.712,181067,0.821,0.000152,5,0.0891,-7.749,1,0.0387,94.941,4,0.957,Volar,Alvaro Soler,Eterno Agosto,47,1
+31,0.391,0.228,252907,0.517,0.0,7,0.29,-9.167,0,0.0401,109.83,3,0.204,"Friend, Please",Twenty One Pilots,Twenty One Pilots,64,1
 32,0.0186,0.608,278405,0.883,0.0,4,0.101,-5.524,0,0.0425,131.988,4,0.343,Iluminados,Fangoria,Canciones para robots románticos,41,1
 33,0.00423,0.449,249151,0.954,0.0,2,0.163,-4.212,1,0.05,170.004,4,0.423,Delirios de un androide cardado,Fangoria,Miscelánea de canciones para robótica avanzada,27,1
-34,0.278,0.633,222031,0.885,0.0,11,0.374,-6.802,0,0.0559,95.024,4,0.282,Disco Sally,Fangoria,Miscelánea de canciones para robótica avanzada,31,1
-35,0.00502,0.601,187761,0.834,0.15,0,0.121,-3.78,1,0.0455,167.879,4,0.249,Thunder,Imagine Dragons,Thunder,40,1
+34,0.278,0.633,222031,0.885,0.0,11,0.374,-6.802,0,0.0559,95.024,4,0.282,Disco Sally,Fangoria,Miscelánea de canciones para robótica avanzada,32,1
+35,0.00502,0.601,187761,0.834,0.15,0,0.121,-3.78,1,0.0455,167.879,4,0.249,Thunder,Imagine Dragons,Thunder,33,1
 36,0.0506,0.776,202480,0.741,0.0,7,0.0701,-5.804,1,0.041,120.079,4,0.854,Kissing Strangers,DNCE,Kissing Strangers,75,1
-37,0.259,0.707,212459,0.629,1.6e-05,0,0.138,-4.581,0,0.0563,122.863,4,0.457,Symphony (feat. Zara Larsson),Clean Bandit,Symphony (feat. Zara Larsson),87,1
+37,0.259,0.707,212459,0.629,1.6e-05,0,0.138,-4.581,0,0.0563,122.863,4,0.457,Symphony (feat. Zara Larsson),Clean Bandit,Symphony (feat. Zara Larsson),88,1
 38,0.00769,0.648,188400,0.903,0.0,11,0.281,-4.028,0,0.0377,150.006,4,0.762,In your Bed,Blas Cantó,In your Bed,50,1
-39,0.0543,0.628,237310,0.953,0.000763,8,0.121,-4.857,1,0.0526,125.034,4,0.631,Espectacular,Fangoria,Espectacular,50,1
-40,0.0263,0.544,229120,0.693,0.0,7,0.182,-5.206,1,0.0383,124.904,4,0.391,Love's Just A Feeling,Lindsey Stirling,Brave Enough (Deluxe Edition),46,1
-41,0.0408,0.648,226160,0.738,0.0,6,0.292,-5.883,0,0.247,159.145,4,0.603,Side To Side,Ariana Grande,Dangerous Woman,79,1
+39,0.0543,0.628,237310,0.953,0.000763,8,0.121,-4.857,1,0.0526,125.034,4,0.631,Espectacular,Fangoria,Espectacular,51,1
+40,0.0263,0.544,229120,0.693,0.0,7,0.182,-5.206,1,0.0383,124.904,4,0.391,Love's Just A Feeling,Lindsey Stirling,Brave Enough (Deluxe Edition),47,1
+41,0.0408,0.648,226160,0.738,0.0,6,0.292,-5.883,0,0.247,159.145,4,0.603,Side To Side,Ariana Grande,Dangerous Woman,80,1
 42,0.0255,0.52,209902,0.87,0.000215,11,0.153,-3.363,0,0.0466,151.561,3,0.568,Hold My Heart,Lindsey Stirling,Brave Enough (Deluxe Edition),47,1
-43,0.089,0.446,237915,0.793,0.0,0,0.211,-5.365,1,0.156,189.891,4,0.47,Chained To The Rhythm,Katy Perry,Chained To The Rhythm,33,1
-44,0.000239,0.487,194877,0.76,0.0216,1,0.126,-6.436,1,0.0375,165.868,4,0.203,Sanguijuela,El beso del escorpión,Sanguijuela,10,1
-45,0.414,0.643,199413,0.698,0.0,11,0.169,-4.094,1,0.276,75.073,4,0.556,Human,Rag'n'Bone Man,Human,30,1
-46,0.00739,0.493,258373,0.724,8.24e-05,7,0.369,-5.334,1,0.0339,143.989,4,0.302,Breaking Bad,Leiva,Monstruos,62,1
-47,0.153,0.695,177835,0.878,0.0,1,0.0764,-3.429,0,0.0441,162.898,4,0.969,White Lies,Max Frost,Low High Low,54,1
-48,0.000672,0.681,218025,0.891,1.07e-06,6,0.0631,-4.28,1,0.0408,100.008,4,0.556,Adderall,Max Frost,Adderall,59,1
-49,0.0217,0.509,243293,0.879,0.0,0,0.0707,-4.651,1,0.0398,157.969,4,0.339,Cama Vacia,Pignoise,Año Zero,37,1
+43,0.089,0.446,237915,0.793,0.0,0,0.211,-5.365,1,0.156,189.891,4,0.47,Chained To The Rhythm,Katy Perry,Chained To The Rhythm,31,1
+44,0.000239,0.487,194877,0.76,0.0216,1,0.126,-6.436,1,0.0375,165.868,4,0.203,Sanguijuela,El beso del escorpión,Sanguijuela,8,1
+45,0.414,0.643,199413,0.698,0.0,11,0.169,-4.094,1,0.276,75.073,4,0.556,Human,Rag'n'Bone Man,Human,31,1
+46,0.00739,0.493,258373,0.724,8.24e-05,7,0.369,-5.334,1,0.0339,143.989,4,0.302,Breaking Bad,Leiva,Monstruos,61,1
+47,0.153,0.695,177835,0.878,0.0,1,0.0764,-3.429,0,0.0441,162.898,4,0.969,White Lies,Max Frost,Low High Low,55,1
+48,0.000672,0.681,218025,0.891,1.07e-06,6,0.0631,-4.28,1,0.0408,100.008,4,0.556,Adderall,Max Frost,Adderall,61,1
+49,0.0217,0.509,243293,0.879,0.0,0,0.0707,-4.651,1,0.0398,157.969,4,0.339,Cama Vacia,Pignoise,Año Zero,38,1
 50,0.0286,0.426,205027,0.76,0.0,6,0.0712,-5.665,1,0.0449,127.904,4,0.876,Todo Me Da Igual,Pignoise,Año Zero,45,1
 51,0.025,0.46,159773,0.956,0.0,11,0.0637,-4.492,1,0.0743,170.05,4,0.794,Quiero,Pignoise,Año Zero,42,1
-52,0.271,0.414,354320,0.404,0.0,0,0.3,-9.928,0,0.0499,71.105,4,0.224,Bohemian Rhapsody - Remastered 2011,Queen,A Night At The Opera (2011 Remaster),78,1
-53,0.0475,0.559,209413,0.868,0.000176,5,0.776,-5.276,1,0.17,156.295,4,0.609,Don't Stop Me Now - Remastered,Queen,Jazz (2011 Remaster),77,1
-54,0.0841,0.795,258013,0.435,0.00026,4,0.0763,-8.927,1,0.0324,108.951,4,0.596,I Want To Break Free - Single Remix,Queen,The Works (Deluxe Edition 2011 Remaster),68,1
-55,0.0123,0.667,236002,0.83,0.0,0,0.191,-5.715,1,0.0749,113.03,4,0.701,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",80,1
+52,0.271,0.414,354320,0.404,0.0,0,0.3,-9.928,0,0.0499,71.105,4,0.224,Bohemian Rhapsody - Remastered 2011,Queen,A Night At The Opera (2011 Remaster),79,1
+53,0.0475,0.559,209413,0.868,0.000176,5,0.776,-5.276,1,0.17,156.295,4,0.609,Don't Stop Me Now - Remastered,Queen,Jazz (2011 Remaster),79,1
+54,0.0841,0.795,258013,0.435,0.00026,4,0.0763,-8.927,1,0.0324,108.951,4,0.596,I Want To Break Free - Single Remix,Queen,The Works (Deluxe Edition 2011 Remaster),69,1
+55,0.0123,0.667,236002,0.83,0.0,0,0.191,-5.715,1,0.0749,113.03,4,0.701,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",81,1
 56,0.185,0.807,258286,0.79,1.1e-05,5,0.183,-5.507,1,0.0875,104.967,4,0.462,Better Off,Hendersin,Better Off,52,1
-57,0.297,0.633,211160,0.673,0.0,6,0.206,-6.403,0,0.258,86.776,4,0.659,Billionaire (feat. Bruno Mars),Travie McCoy,Lazarus (Explicit),63,1
-58,0.643,0.663,191027,0.475,0.0,1,0.122,-8.834,1,0.0417,143.175,4,0.644,Lemon Tree - Album Edit,Fools Garden,Dish Of The Day,41,1
-59,0.0376,0.7,183533,0.623,1.03e-05,1,0.133,-5.351,1,0.0789,95.992,4,0.865,Lollipop,MIKA,Life In Cartoon Motion,54,1
+57,0.297,0.633,211160,0.673,0.0,6,0.206,-6.403,0,0.258,86.776,4,0.659,Billionaire (feat. Bruno Mars),Travie McCoy,Lazarus,64,1
+58,0.643,0.663,191027,0.475,0.0,1,0.122,-8.834,1,0.0417,143.175,4,0.644,Lemon Tree - Album Edit,Fools Garden,Dish Of The Day,28,1
+59,0.0376,0.7,183533,0.623,1.03e-05,1,0.133,-5.351,1,0.0789,95.992,4,0.865,Lollipop,MIKA,Life In Cartoon Motion,55,1
 60,0.0271,0.676,187733,0.824,0.0152,0,0.363,-5.752,1,0.0449,122.221,4,0.696,Grace Kelly,MIKA,Life In Cartoon Motion,65,1
-61,0.00588,0.777,182613,0.625,0.000706,1,0.198,-6.473,0,0.0509,123.973,4,0.899,Drunk and Irresponsible,Blas Cantó,Drunk and Irresponsible,55,1
+61,0.00588,0.777,182613,0.625,0.000706,1,0.198,-6.473,0,0.0509,123.973,4,0.899,Drunk and Irresponsible,Blas Cantó,Drunk and Irresponsible,54,1
 62,0.0116,0.742,213524,0.809,2.77e-06,1,0.726,-3.591,0,0.176,93.95,4,0.632,NO,Meghan Trainor,NO,20,1
-63,0.329,0.574,216000,0.59,0.0,7,0.103,-6.205,1,0.0475,175.2,4,0.96,Solo Si Es Contigo (feat. Bebe),Bombai,Solo Si Es Contigo (feat. Bebe),60,1
-64,0.5,0.623,240205,0.488,0.000211,2,0.131,-8.246,1,0.029,114.019,4,0.169,La Llamada,Leiva,La Llamada,67,1
+63,0.329,0.574,216000,0.59,0.0,7,0.103,-6.205,1,0.0475,175.2,4,0.96,Solo Si Es Contigo (feat. Bebe),Bombai,Solo Si Es Contigo (feat. Bebe),61,1
+64,0.5,0.623,240205,0.488,0.000211,2,0.131,-8.246,1,0.029,114.019,4,0.169,La Llamada,Leiva,La Llamada,71,1
 65,0.106,0.547,238440,0.884,9.56e-06,1,0.0715,-5.483,1,0.0457,169.954,4,0.886,El Secreto de las Tortugas - Version 2010,Maldita Nerea,El Secreto de las Tortugas (Version 2010),56,1
-66,0.0454,0.716,242267,0.879,0.0,5,0.243,-6.179,0,0.0349,126.368,4,0.905,Feo Fuerte y Formal,Loquillo Y Los Trogloditas,"Feo, Fuerte y Formal",51,1
+66,0.0454,0.716,242267,0.879,0.0,5,0.243,-6.179,0,0.0349,126.368,4,0.905,Feo Fuerte y Formal,Loquillo Y Los Trogloditas,"Feo, Fuerte y Formal",52,1
 67,0.000735,0.426,269320,0.855,0.0149,0,0.126,-5.395,0,0.0364,156.071,4,0.17,Cancion De Guerra,Supersubmarina,Santacruz,47,1
-68,0.00519,0.331,237627,0.837,0.000718,11,0.0889,-5.364,1,0.0578,150.061,4,0.222,Algo Que Sirva Como Luz,Supersubmarina,Viento de Cara,48,1
-69,0.000874,0.538,268707,0.916,6.18e-05,0,0.368,-5.297,1,0.0372,98.51,4,0.532,Arena y Sal,Supersubmarina,Viento de Cara,49,1
-70,0.0393,0.469,210613,0.592,0.0,5,0.105,-4.962,1,0.0399,161.996,4,0.0938,Big Girls Cry,Sia,1000 Forms Of Fear,60,1
-71,0.0102,0.668,210227,0.725,0.000479,1,0.0561,-6.127,1,0.266,191.944,4,0.729,The Greatest,Sia,This Is Acting (Deluxe Version),78,1
-72,0.0205,0.669,206533,0.854,0.0,1,0.047,-4.486,1,0.0999,93.057,4,0.707,Santa's Coming For Us,Sia,Everyday Is Christmas,69,1
-73,0.101,0.258,239000,0.437,1.27e-06,11,0.106,-6.593,0,0.039,180.043,4,0.0967,Dusk Till Dawn - Radio Edit,ZAYN,Dusk Till Dawn (Radio Edit),97,1
-74,0.454,0.321,268960,0.377,0.0,10,0.338,-7.385,1,0.0361,119.483,4,0.367,Hallelujah,Pentatonix,A Pentatonix Christmas,72,1
-75,0.66,0.29,243720,0.261,0.0,4,0.155,-9.163,1,0.0277,143.598,4,0.0999,True Colors,Anna Kendrick,True Colors,67,1
+68,0.00519,0.331,237627,0.837,0.000718,11,0.0889,-5.364,1,0.0578,150.061,4,0.222,Algo Que Sirva Como Luz,Supersubmarina,Viento de Cara,49,1
+69,0.000874,0.538,268707,0.916,6.18e-05,0,0.368,-5.297,1,0.0372,98.51,4,0.532,Arena y Sal,Supersubmarina,Viento de Cara,50,1
+70,0.0393,0.469,210613,0.592,0.0,5,0.105,-4.962,1,0.0399,161.996,4,0.0938,Big Girls Cry,Sia,1000 Forms Of Fear,61,1
+71,0.0102,0.668,210227,0.725,0.000479,1,0.0561,-6.127,1,0.266,191.944,4,0.729,The Greatest,Sia,This Is Acting (Deluxe Version),79,1
+72,0.0205,0.669,206533,0.854,0.0,1,0.047,-4.486,1,0.0999,93.057,4,0.707,Santa's Coming For Us,Sia,Everyday Is Christmas,81,1
+73,0.101,0.258,239000,0.437,1.27e-06,11,0.106,-6.593,0,0.039,180.043,4,0.0967,Dusk Till Dawn - Radio Edit,ZAYN,Dusk Till Dawn (Radio Edit),95,1
+74,0.454,0.321,268960,0.377,0.0,10,0.338,-7.385,1,0.0361,119.483,4,0.367,Hallelujah,Pentatonix,A Pentatonix Christmas,77,1
+75,0.66,0.29,243720,0.261,0.0,4,0.155,-9.163,1,0.0277,143.598,4,0.0999,True Colors,Anna Kendrick,True Colors,68,1
 76,0.00121,0.598,189360,0.886,0.0627,4,0.545,-5.607,1,0.0342,145.006,4,0.766,Mira cómo vuelo,Miss Caffeina,Detroit,54,1
-77,0.896,0.444,142373,0.258,0.000175,10,0.291,-9.505,0,0.0314,94.722,4,0.463,"Of All Living Creatures, Why a Human Being?",Alondra Bentley,Ashfield Avenue,43,1
-78,0.0109,0.699,184880,0.7,0.0794,11,0.152,-5.704,1,0.0392,102.023,4,0.3,Best Friend,Sofi Tukker,Best Friend,71,1
+77,0.896,0.444,142373,0.258,0.000175,10,0.291,-9.505,0,0.0314,94.722,4,0.463,"Of All Living Creatures, Why a Human Being?",Alondra Bentley,Ashfield Avenue,39,1
+78,0.0109,0.699,184880,0.7,0.0794,11,0.152,-5.704,1,0.0392,102.023,4,0.3,Best Friend,Sofi Tukker,Best Friend,76,1
 79,0.136,0.763,180613,0.915,0.000124,1,0.115,-6.336,0,0.0458,99.988,4,0.177,Colour Me - Möwe Remix,Juke Ross,Colour Me (Möwe Remix),43,1
-80,0.0865,0.704,227586,0.813,0.000325,2,0.164,-6.284,0,0.0304,115.994,4,0.372,Outta Here,Two Can,Outta Here,52,1
-81,0.128,0.747,184134,0.799,0.0,11,0.0541,-4.066,0,0.0405,104.02,4,0.551,Mama,Jonas Blue,Mama,69,1
-82,0.0815,0.617,240560,0.893,0.0,4,0.207,-4.565,1,0.0412,130.98,4,0.789,Cómo Te Atreves,Morat,Sobre El Amor Y Sus Efectos Secundarios,67,1
-83,0.0642,0.893,223413,0.745,0.0,11,0.0943,-3.105,0,0.0571,101.018,4,0.872,Feels,Calvin Harris,Feels,82,1
+80,0.0865,0.704,227586,0.813,0.000325,2,0.164,-6.284,0,0.0304,115.994,4,0.372,Outta Here,Two Can,Outta Here,50,1
+81,0.128,0.747,184134,0.799,0.0,11,0.0541,-4.066,0,0.0405,104.02,4,0.551,Mama,Jonas Blue,Mama,67,1
+82,0.0815,0.617,240560,0.893,0.0,4,0.207,-4.565,1,0.0412,130.98,4,0.789,Cómo Te Atreves,Morat,Sobre El Amor Y Sus Efectos Secundarios,68,1
+83,0.0642,0.893,223413,0.745,0.0,11,0.0943,-3.105,0,0.0571,101.018,4,0.872,Feels,Calvin Harris,Feels,80,1
 84,0.162,0.437,240960,0.562,1.64e-05,0,0.0838,-6.327,0,0.0403,81.884,4,0.23,To Be Human,Sia,Wonder Woman: Original Motion Picture Soundtrack,63,1
-85,0.115,0.797,227292,0.791,6e-05,6,0.144,-5.799,1,0.0626,106.044,4,0.516,Bon Appétit,Katy Perry,Bon Appétit,30,1
-86,0.00388,0.56,224947,0.887,0.0,7,0.341,-6.314,1,0.0594,130.026,4,0.198,Good Times,All Time Low,Good Times,34,1
-87,0.00274,0.756,209333,0.682,8.85e-06,9,0.147,-6.577,0,0.0753,116.008,4,0.589,New Rules,Dua Lipa,Dua Lipa (Deluxe),96,1
-88,0.273,0.726,177947,0.665,0.0,10,0.0623,-6.881,0,0.166,94.006,4,0.883,"Yo Contigo, Tú Conmigo - The Gong Gong Song / El Tema De La Película ""Gru 3 Mi Villano Favorito""",Morat,Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial),62,1
+85,0.115,0.797,227292,0.791,6e-05,6,0.144,-5.799,1,0.0626,106.044,4,0.516,Bon Appétit,Katy Perry,Bon Appétit,23,1
+86,0.00388,0.56,224947,0.887,0.0,7,0.341,-6.314,1,0.0594,130.026,4,0.198,Good Times,All Time Low,Good Times,33,1
+87,0.00256,0.771,208827,0.696,9.71e-06,9,0.179,-6.258,0,0.0755,116.054,4,0.656,New Rules,Dua Lipa,Dua Lipa (Deluxe),96,1
+88,0.273,0.726,177947,0.665,0.0,10,0.0623,-6.881,0,0.166,94.006,4,0.883,"Yo Contigo, Tú Conmigo - The Gong Gong Song / El Tema De La Película ""Gru 3 Mi Villano Favorito""",Morat,Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial),61,1
+89,0.00636,0.545,193827,0.775,0.0,5,0.192,-4.325,0,0.0349,174.086,4,0.516,Me And My Broken Heart,Rixton,Me And My Broken Heart,66,1
+90,0.111,0.455,186813,0.782,0.000207,9,0.647,-3.702,1,0.064,136.151,4,0.214,Radioactive,Imagine Dragons,Night Visions (Deluxe),64,1
+91,0.303,0.658,199111,0.678,0.0,1,0.361,-4.407,1,0.058,97.976,4,0.662,All Falls Down,Alan Walker,All Falls Down,90,1
+92,0.186,0.676,161200,0.929,0.000405,10,0.121,-3.194,1,0.0458,97.019,4,0.157,Alone,Alan Walker,Alone,80,1
+93,0.0125,0.491,189333,0.607,1.52e-06,4,0.289,-6.333,0,0.0668,176.112,4,0.166,Sing Me to Sleep,Alan Walker,Sing Me to Sleep,75,1
+94,0.393,0.499,221711,0.829,0.0,7,0.185,-4.928,1,0.0483,175.072,4,0.872,Solo Si Es Contigo,Bombai,Solo Si Es Contigo,44,1
+95,0.739,0.686,184250,0.574,0.0,5,0.109,-6.249,1,0.0404,126.98,4,0.251,Sirenas,Taburete,Dr. Charas,69,1
+96,0.0431,0.605,225915,0.77,0.0,5,0.159,-3.645,0,0.0446,130.037,4,0.298,Tears (feat. Louisa Johnson),Clean Bandit,Tears (feat. Louisa Johnson),69,1
+97,0.0313,0.708,202999,0.868,0.0,6,0.122,-3.287,1,0.0431,124.994,4,0.72,Came Here for Love,Sigala,Came Here for Love,81,1
+98,0.0905,0.648,220781,0.532,0.0,0,0.0831,-6.597,1,0.0746,99.983,4,0.487,It Ain’t Me (with Selena Gomez),Kygo,It Ain't Me,77,1
+99,0.0178,0.569,154227,0.831,0.0,11,0.0603,-3.177,1,0.0454,100.022,4,0.824,Estoy enfermo (con Melendi),Pignoise,Yo me veo contigo,34,1
+100,0.255,0.49,258827,0.743,7.21e-06,0,0.3,-5.155,0,0.0409,89.974,4,0.363,Hymn For The Weekend,Coldplay,A Head Full Of Dreams,79,1
+101,0.0498,0.617,247160,0.635,1.44e-05,11,0.164,-6.769,0,0.0317,103.019,4,0.446,Something Just Like This,The Chainsmokers,Memories...Do Not Open,87,1
+102,0.256,0.52,180823,0.761,4.96e-06,4,0.17,-3.093,1,0.0853,141.971,4,0.286,Silence,Marshmello,Silence,96,1
+103,0.256,0.52,180823,0.761,4.96e-06,4,0.17,-3.093,1,0.0853,141.971,4,0.286,Superman,American Authors,What We Live For,0,1
+104,0.0693,0.618,206920,0.922,0.0,8,0.11,-5.547,1,0.054,125.992,4,0.719,I'm Born To Run,American Authors,What We Live For,59,1
+105,0.00938,0.674,169027,0.875,0.0,1,0.125,-4.256,1,0.0409,121.992,4,0.703,Go Big Or Go Home,American Authors,What We Live For,48,1
+106,0.00724,0.698,266623,0.827,0.0,6,0.0896,-4.755,1,0.0328,104.004,4,0.779,Carreteras Infinitas,Sidonie,El Peor Grupo del Mundo,56,1
+107,0.0025,0.549,197600,0.902,4.19e-06,7,0.0508,-2.352,1,0.0563,154.095,4,0.775,Nada que perder,Pignoise,Anunciado en Television,46,1
+108,0.00883,0.533,235041,0.888,3.37e-06,11,0.0954,-4.402,1,0.0361,134.006,4,0.47,Interrogante,Pignoise,Interrogante,38,1
+109,0.00354,0.684,206322,0.958,0.0,1,0.0232,-2.175,1,0.0363,111.988,4,0.932,Lo Que Queda por Andar,Pignoise,Lo Que Queda por Andar,28,1
+110,0.000302,0.573,220133,0.773,0.000534,2,0.303,-5.898,1,0.0322,121.985,4,0.659,La Lluvia en los Zapatos,Leiva,Monstruos,59,1
+111,0.109,0.42,195698,0.885,5.73e-05,11,0.426,-3.137,1,0.0535,158.072,4,0.705,Quiero Que Vuelvas,Pignoise,Lo Que Queda por Andar,27,1
+112,0.416,0.616,224240,0.867,8.92e-05,7,0.114,-6.743,1,0.0476,101.047,4,0.825,Miss Honolulu,Carlos Sadness,La Idea Salvaje (Edición Especial Spotify),52,1
+113,0.000543,0.566,251453,0.81,0.000397,0,0.0975,-5.235,1,0.0382,124.885,4,0.258,Sincericidio,Leiva,Monstruos,60,1
+114,0.143,0.663,209693,0.652,0.0,6,0.113,-5.978,1,0.0406,118.013,4,0.46,"Gone, Gone, Gone",Phillip Phillips,The World From The Side Of The Moon (Deluxe),56,1
+115,0.291,0.662,233293,0.757,0.0,5,0.0885,-6.818,0,0.144,159.945,4,0.962,"Happy - From ""Despicable Me 2""",Pharrell Williams,"Happy (From ""Despicable Me 2"")",26,1
+116,0.032,0.64,221240,0.831,2.06e-06,5,0.354,-3.908,1,0.221,174.963,4,0.684,Price Tag,Jessie J,Price Tag,54,1
+117,0.431,0.484,204280,0.731,0.0,1,0.151,-6.694,1,0.0379,101.654,4,0.51,Riptide,Vance Joy,Riptide,62,1
+118,0.922,0.422,269560,0.264,0.0,8,0.132,-7.064,1,0.0322,119.93,4,0.331,All of Me,John Legend,Love In The Future,84,1
+119,0.0319,0.646,210960,0.795,0.0,9,0.267,-3.293,1,0.0976,89.99,4,0.796,Stereo Hearts (feat. Adam Levine),Gym Class Heroes,The Papercut Chronicles II,75,1
+120,0.526,0.666,236880,0.711,0.0,1,0.298,-4.227,0,0.075,79.755,4,0.884,Cupid's Chokehold / Breakfast In America,Gym Class Heroes,The Papercut Chronicles,62,1
+121,0.134,0.716,222213,0.838,0.0,10,0.148,-4.289,1,0.0513,130.034,4,0.646,Ass Back Home (feat. Neon Hitch),Gym Class Heroes,The Papercut Chronicles II,59,1
+122,0.0225,0.761,235480,0.69,0.0,11,0.34,-5.56,1,0.11,114.987,4,0.742,Clothes Off!!,Gym Class Heroes,As Cruel As School Children,49,1
+123,0.0142,0.602,215143,0.739,0.0,9,0.371,-5.655,1,0.0601,82.008,4,0.422,Golden (feat. Sia),Travie McCoy,Golden (feat. Sia),59,1
+124,0.167,0.516,219659,0.909,0.0,1,0.552,-3.988,0,0.22,169.972,4,0.472,Rough Water (feat. Jason Mraz),Travie McCoy,Rough Water (feat. Jason Mraz),49,1
+125,0.0263,0.473,266600,0.789,0.0,1,0.132,-5.171,1,0.0336,103.225,4,0.394,Little Talks,Of Monsters and Men,My Head Is An Animal,73,1
+126,0.563,0.627,217307,0.703,0.0,0,0.0962,-4.884,1,0.236,81.897,4,0.64,Trumpets,Jason Derulo,Tattoos,69,1
+127,0.411,0.879,315693,0.566,0.000128,11,0.0794,-8.789,1,0.0364,114.006,4,0.673,Stolen Dance,Milky Chance,Stolen Dance,47,1
+128,0.226,0.581,193467,0.758,0.0,2,0.109,-3.795,1,0.0425,201.945,4,0.869,Life Is Rosy,Jess Penner,Growing In The Cold,36,1
+129,0.0694,0.68,222920,0.666,0.0,9,0.157,-6.953,1,0.115,151.995,4,0.789,Love Is Easy,McFly,Memory Lane (The Best Of McFly) [Deluxe Edition],51,1
+130,0.0151,0.637,220733,0.843,0.0,5,0.0876,-5.413,1,0.0432,109.012,4,0.434,Just The Way You Are,Bruno Mars,Just The Way You Are,24,1
+131,0.0932,0.645,203520,0.891,3.88e-06,6,0.379,-2.505,0,0.0387,124.915,4,0.568,Lovers on the Sun (feat. Sam Martin),David Guetta,Lovers on the Sun EP,58,1
+132,0.0141,0.741,189973,0.715,0.0,1,0.0576,-5.497,0,0.0293,120.032,4,0.847,Maps,Maroon 5,V (Deluxe),9,1
+133,0.00333,0.499,190373,0.964,0.0,5,0.111,-4.796,0,0.238,100.509,4,0.46,You're Never Fully Dressed Without a Smile (2014 Film Version),Sia,You're Never Fully Dressed Without a Smile (2014 Film Version),54,1
+134,0.135,0.742,172820,0.439,0.0,4,0.122,-8.598,0,0.065,92.017,4,0.826,The Zombie Song,Stephanie Mabey,Wake Up Dreaming,53,1
+135,0.00431,0.55,224960,0.909,0.0,5,0.0778,-4.428,1,0.0396,129.979,4,0.598,Bailarina,Maldita Nerea,Bailarina,63,1
+136,0.00866,0.615,223640,0.879,3.89e-05,7,0.0993,-4.637,0,0.0388,99.998,4,0.889,Cuando Todas las Historias Se Acaban,Maldita Nerea,Bailarina,60,1
+137,0.0131,0.595,264520,0.718,1.66e-05,1,0.0937,-6.507,0,0.0253,91.036,4,0.592,A Quien Quiera Escuchar - Versión 2017,Maldita Nerea,Bailarina,52,1
+138,0.0648,0.623,211800,0.766,0.000269,7,0.0656,-6.183,1,0.0667,89.996,4,0.848,Perdona Si Te Llamo Amor,Maldita Nerea,Mira Dentro,45,1
+139,0.0119,0.63,224280,0.8,4.3e-06,6,0.185,-5.486,0,0.0364,101.996,4,0.905,"No Pide Tanto, Idiota",Maldita Nerea,Mira Dentro,53,1
+140,0.0218,0.606,262973,0.875,0.0,8,0.229,-6.218,1,0.0318,102.001,4,0.861,Nunca Estarás Sola,Maldita Nerea,Mira Dentro,41,1
+141,0.27,0.547,183307,0.646,0.0,7,0.187,-7.028,1,0.0335,92.064,4,0.584,Siempre Estaré Ahí,Maldita Nerea,Bailarina,50,1
+142,0.00126,0.412,202053,0.927,0.0,1,0.0849,-3.858,0,0.145,170.003,4,0.437,I'll Sleep When I'm Dead,Set It Off,Cinematics (Expanded Edition),55,1
+143,0.0407,0.564,272533,0.812,0.0,11,0.12,-5.432,0,0.0767,95.969,4,0.616,Haste Que El Cuerpo Aguante,Mägo de Oz,Finisterra,59,1
+144,0.00483,0.533,342381,0.936,0.00578,11,0.137,-4.72,0,0.0575,132.991,4,0.411,Fiesta Pagana 2.0,Mägo de Oz,Fiesta pagana 2.0,45,1
+145,0.00297,0.451,273880,0.937,0.0868,9,0.091,-6.219,1,0.14,174.29,4,0.566,Agradecido,Rosendo,Un Palo Al Agua (20 Grandes Canciones),47,1
+146,0.00314,0.696,294573,0.921,5.24e-05,0,0.0842,-3.755,1,0.0363,119.001,4,0.714,Bad Romance,Lady Gaga,The Fame Monster (Explicit Version),70,1
+147,0.786,0.307,229147,0.323,0.0,9,0.107,-11.212,1,0.0342,128.659,4,0.0699,Angel Down,Lady Gaga,Joanne (Deluxe),55,1
+148,0.046,0.562,221947,0.939,0.0,0,0.112,-4.282,1,0.0475,116.044,4,0.684,Stronger (What Doesn't Kill You),Kelly Clarkson,Stronger (Deluxe Version),70,1
+149,0.186,0.768,216897,0.517,3.8e-05,7,0.104,-4.323,0,0.0312,104.992,4,0.418,Havana,Camila Cabello,Havana,100,1
+150,0.139,0.715,197993,0.802,0.0,11,0.177,-4.647,0,0.0394,124.989,4,0.327,Wolves,Selena Gomez,Wolves,95,1
+151,0.0793,0.795,199849,0.611,3.04e-06,5,0.0853,-5.224,0,0.0711,110.016,4,0.404,What Lovers Do (feat. SZA),Maroon 5,What Lovers Do (feat. SZA),65,1
+152,0.435,0.526,183637,0.52,0.0,6,0.197,-7.985,0,0.0569,149.119,4,0.13,So Far Away,Martin Garrix,So Far Away,91,1
+153,0.33,0.659,212120,0.716,0.0,5,0.173,-5.673,0,0.111,148.015,4,0.437,Let You Down,NF,Perception,94,1
+154,0.152,0.677,236853,0.497,0.0,5,0.0911,-5.763,1,0.0809,99.137,4,0.419,Stargazing,Kygo,Stargazing - EP,92,1
+155,0.0364,0.628,215064,0.797,0.0,11,0.104,-3.953,0,0.0596,106.93,4,0.321,Anywhere,Rita Ora,Anywhere,91,1
+156,0.245,0.638,205748,0.658,3.77e-06,3,0.0919,-6.318,1,0.0456,105.076,4,0.33,I Miss You (feat. Julia Michaels),Clean Bandit,I Miss You (feat. Julia Michaels),93,1
+157,0.618,0.515,201000,0.378,0.0,5,0.172,-8.264,1,0.065,91.883,4,0.536,Too Good At Goodbyes,Sam Smith,Too Good At Goodbyes,65,1
+158,0.165,0.754,221013,0.743,0.0,8,0.0746,-5.794,0,0.495,90.053,4,0.661,River (feat. Ed Sheeran),Eminem,Revival,88,1
+159,0.479,0.938,193604,0.549,3.92e-05,11,0.101,-4.884,1,0.067,115.036,4,0.52,Help Me Out (with Julia Michaels),Maroon 5,Help Me Out,57,1
+160,0.0141,0.625,240240,0.781,1.17e-06,0,0.0662,-5.756,1,0.0456,89.982,4,0.178,Amerika,Young the Giant,Home of the Strange,62,1
+161,0.0245,0.623,228467,0.886,0.0,1,0.247,-3.044,1,0.0404,92.021,4,0.709,Something To Believe In,Young the Giant,Home of the Strange,64,1
+162,0.00975,0.673,197427,0.789,0.0,0,0.752,-4.288,1,0.0408,100.043,4,0.841,Silvertongue,Young the Giant,Home of the Strange,67,1
+163,0.0185,0.627,191747,0.871,0.0,2,0.117,-4.304,1,0.094,151.079,4,0.725,Mr. Know-It-All,Young the Giant,Home of the Strange,56,1
+164,0.00642,0.558,156507,0.856,0.00033,0,0.318,-4.82,1,0.0974,152.002,4,0.524,Home of the Strange,Young the Giant,Home of the Strange,45,1
+165,0.0952,0.586,248107,0.808,0.0,0,0.112,-5.365,1,0.0451,114.992,4,0.498,Superman,American Authors,What We Live For,40,1
+166,0.00209,0.579,228840,0.888,7.73e-06,2,0.323,-4.255,1,0.036,107.037,4,0.486,Sleeping With A Friend,Neon Trees,Pop Psychology,48,1

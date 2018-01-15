@@ -14,6 +14,7 @@ training_data = pd.concat([positive_data, negative_data])
 training_data.pop("Title")
 training_data.pop("Artist")
 training_data.pop("Album")
+training_data.pop("duration_ms")
 
 X_training = training_data.drop('Appreciation', axis = 1).values
 Y_training = training_data[['Appreciation']].values
@@ -23,6 +24,7 @@ test_data = pd.read_csv('TestData.csv')
 test_data.pop("Title")
 test_data.pop("Artist")
 test_data.pop("Album")
+test_data.pop("duration_ms")
 
 X_test = test_data.drop('Appreciation', axis = 1).values
 Y_test = test_data[['Appreciation']].values
@@ -38,17 +40,19 @@ X_test_escalado = Y_scaler.fit_transform(X_test)
 Y_test_escalado = Y_scaler.fit_transform(Y_test)
 
 #Parametros del modelo
-inputs = 15
+inputs = 14
 outputs = 1
 
 learning_rate = 0.01
-bucle_entrenamiento = 100
-n_neurons1 = 256
-n_neurons2 = 128
-n_neurons3 = 256
-n_neurons4 = 128
-n_neurons5 = 64
-n_neurons6 = 32
+bucle_entrenamiento = 40
+n_neurons1 = 1500
+n_neurons2 = 800
+n_neurons3 = 500
+n_neurons4 = 200
+n_neurons5 = 80
+n_neurons6 = 40
+n_neurons7 = 15
+n_neurons8 = 8
 
 """ Definir las capas de la red neuronal """
 
@@ -92,11 +96,21 @@ with tf.variable_scope('Capa6'):
     biases = tf.get_variable(name="biases6", shape=[n_neurons6], initializer=tf.zeros_initializer())
     capa6_output = tf.nn.relu(tf.matmul(capa5_output, weights) + biases)
 
-# Cpara final
+# Septima capa
 with tf.variable_scope('Capa7'):
-    weights = tf.get_variable("weights7", shape=[n_neurons6, outputs], initializer=tf.contrib.layers.xavier_initializer())
-    biases = tf.get_variable(name="biases7", shape=[outputs], initializer=tf.zeros_initializer())
-    prediccion = tf.nn.relu(tf.matmul(capa6_output, weights) + biases)
+    weights = tf.get_variable("weights7", shape=[n_neurons6, n_neurons7], initializer=tf.contrib.layers.xavier_initializer())
+    biases = tf.get_variable(name="biases7", shape=[n_neurons7], initializer=tf.zeros_initializer())
+    capa7_output = tf.nn.relu(tf.matmul(capa6_output, weights) + biases)
+# Octaba capa
+with tf.variable_scope('Capa8'):
+    weights = tf.get_variable("weights8", shape=[n_neurons7, n_neurons8], initializer=tf.contrib.layers.xavier_initializer())
+    biases = tf.get_variable(name="biases8", shape=[n_neurons8], initializer=tf.zeros_initializer())
+    capa8_output = tf.nn.relu(tf.matmul(capa7_output, weights) + biases)
+# Cpara final
+with tf.variable_scope('Capa9'):
+    weights = tf.get_variable("weights9", shape=[n_neurons8, outputs], initializer=tf.contrib.layers.xavier_initializer())
+    biases = tf.get_variable(name="biases9", shape=[outputs], initializer=tf.zeros_initializer())
+    prediccion = tf.nn.relu(tf.matmul(capa8_output, weights) + biases)
 
 # Definir la funcion de coste
 with tf.variable_scope('Coste'):
@@ -127,7 +141,7 @@ with tf.Session() as sesion:
         sesion.run(optimizador, feed_dict={X: X_training_escalado, Y: Y_training_escalado})
 
         # Cada cinco pasos del bucle imprimir el estado del entrenamiento
-        if paso % 5 == 0:
+        if paso % 2 == 0:
 
             training_cost, training_summary = sesion.run([coste, summary], feed_dict={X: X_training_escalado, Y: Y_training_escalado})
             testing_cost, testing_summary = sesion.run([coste, summary], feed_dict={X: X_test_escalado, Y: Y_test_escalado})
@@ -148,13 +162,41 @@ with tf.Session() as sesion:
 
     # PRediccion con los datos de testeo
     Y_prediccion_escalado = sesion.run(prediccion, feed_dict={X: X_test_escalado})
-    Y_prediccion = Y_scaler.inverse_transform(Y_prediccion_escalado)
+    #Y_prediccion = Y_scaler.inverse_transform(Y_prediccion_escalado)
 
     for i in range (len(test_data)):
         valoracion_real = test_data['Appreciation'].values[i]
-        valoracion_predecida = Y_prediccion[i][0]
+        valoracion_predecida = Y_prediccion_escalado[i][0]
 
+        valoracion_predecida = float("{0:.2f}".format(valoracion_predecida))
         if valoracion_predecida>1:
             valoracion_predecida = 1
 
         print("Valoracion real: {} --- Valoracion predecida: {}".format(valoracion_real, valoracion_predecida))
+
+
+    # Aplicar el modelo a los datos
+    playlist = pd.read_csv('Playlist.csv')
+
+    title = playlist.pop("Title")
+    title = title.to_frame(name=None)
+    artist = playlist.pop("Artist")
+    artist = artist.to_frame(name=None)
+    playlist.pop("Album")
+    playlist.pop("duration_ms")
+
+    playlist_escalado = X_scaler.fit_transform(playlist)
+
+    valoracion = sesion.run(prediccion, feed_dict={X: playlist_escalado})
+    val = []
+    for i in range (len(valoracion)):
+        valoracion_predecida = valoracion[i][0]
+        valoracion_predecida = float("{0:.2f}".format(valoracion_predecida))
+        if valoracion_predecida > 1:
+            valoracion_predecida = 1
+        val.append(valoracion_predecida)
+
+    appreciation = pd.DataFrame.from_items([('Appreciation', val)])
+
+    data = title.join(artist).join(appreciation)
+    data.to_csv('ValoresPredecidos.csv', columns=None)

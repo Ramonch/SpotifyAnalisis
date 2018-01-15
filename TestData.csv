@@ -1,13 +1,28 @@
 ,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence,Title,Artist,Album,Popularity,Appreciation
 0,0.00121,0.598,189360,0.886,0.0627,4,0.545,-5.607,1,0.0342,145.006,4,0.766,Mira cómo vuelo,Miss Caffeina,Detroit,54,1
-1,0.0349,0.804,164000,0.821,0.00127,5,0.15,-4.944,0,0.0403,119.977,4,0.518,Show Me,Loud Luxury,Show Me,62,1
-2,0.392,0.833,203586,0.748,0.000758,8,0.0809,-5.496,0,0.034,121.999,4,0.888,Sun Goes Down,Bruno Martini,Sun Goes Down,72,1
+1,0.0349,0.804,164000,0.821,0.00127,5,0.15,-4.944,0,0.0403,119.977,4,0.518,Show Me,Loud Luxury,Show Me,59,1
+2,0.392,0.833,203586,0.748,0.000758,8,0.0809,-5.496,0,0.034,121.999,4,0.888,Sun Goes Down,Bruno Martini,Sun Goes Down,71,1
 3,0.134,0.633,196000,0.853,1.86e-05,8,0.358,-4.631,1,0.0529,90.072,4,0.534,One Life,HEREN,One Life,40,1
-4,0.245,0.777,251547,0.602,0.00169,9,0.0934,-9.719,0,0.0752,114.911,4,0.7,Me Sabe a Poco,Aldeskuido,A Pie de Calle,34,0
+4,0.245,0.777,251547,0.602,0.00169,9,0.0934,-9.719,0,0.0752,114.911,4,0.7,Me Sabe a Poco,Aldeskuido,A Pie de Calle,35,0
 5,0.364,0.655,231520,0.499,0.0,0,0.107,-5.011,1,0.0604,79.528,4,0.888,Sin Ella,Aldeskuido,"Oir, Ver y Cantar",0,0
-6,0.089,0.446,237915,0.793,0.0,0,0.211,-5.365,1,0.156,189.891,4,0.47,Chained To The Rhythm,Katy Perry,Chained To The Rhythm,33,1
+6,0.089,0.446,237915,0.793,0.0,0,0.211,-5.365,1,0.156,189.891,4,0.47,Chained To The Rhythm,Katy Perry,Chained To The Rhythm,31,1
 7,0.846,0.792,236760,0.426,0.0,9,0.165,-4.078,1,0.0996,137.489,4,0.847,Sale El Sol en el Bajo A,Aldeskuido,"Oir, Ver y Cantar",0,0
-8,0.306,0.763,223973,0.924,0.000149,6,0.0944,-4.411,0,0.138,119.74,4,0.866,Como Vengo,Las Chuches,Las Chuches,24,0
+8,0.306,0.763,223973,0.924,0.000149,6,0.0944,-4.411,0,0.138,119.74,4,0.866,Como Vengo,Las Chuches,Las Chuches,25,0
 9,0.445,0.68,163880,0.693,0.0,0,0.208,-7.234,1,0.0435,114.948,4,0.851,House Of Gold,Twenty One Pilots,Vessel,72,1
-10,0.00465,0.391,170960,0.882,0.442,4,0.13,-7.539,0,0.157,74.977,4,0.102,Atlantis,Nekrogoblikon,Heavy Meta,10,0
-11,0.0347,0.701,192173,0.941,0.0,0,0.0756,-1.088,1,0.0354,101.984,4,0.909,Por verte,Pignoise,Anunciado en Television,35,1
+10,0.00465,0.391,170960,0.882,0.442,4,0.13,-7.539,0,0.157,74.977,4,0.102,Atlantis,Nekrogoblikon,Heavy Meta,9,0
+11,0.0347,0.701,192173,0.941,0.0,0,0.0756,-1.088,1,0.0354,101.984,4,0.909,Por verte,Pignoise,Anunciado en Television,36,1
+12,0.00256,0.771,208827,0.696,9.71e-06,9,0.179,-6.258,0,0.0755,116.054,4,0.656,New Rules,Dua Lipa,Dua Lipa (Deluxe),96,1
+13,0.639,0.852,199388,0.394,0.000428,4,0.114,-11.043,0,0.0712,135.981,4,0.384,No Me Lo Creo,Raúl El Balilla,El Balilla,21,0
+14,0.0527,0.752,146945,0.905,0.000242,0,0.173,-7.072,1,0.0515,97.993,4,0.689,Tu Sicaria,Ms. Nina,Tu Sicaria,49,0
+15,0.0102,0.723,239920,0.803,1.69e-06,9,0.0978,-3.572,1,0.0296,103.997,4,0.629,Te entiendo,Pignoise,Anunciado en Television,51,1
+16,0.0242,0.675,187733,0.828,0.0102,0,0.364,-5.799,1,0.0454,122.229,4,0.669,Grace Kelly,MIKA,Life In Cartoon Motion (Internation Non EU),57,1
+17,0.00264,0.544,292587,0.728,0.00959,6,0.427,-5.358,0,0.05,174.983,4,0.281,Waiting All Night (feat. Ella Eyre) - feat. Ella Eyre,Rudimental,Waiting All Night,53,1
+18,0.0775,0.592,228533,0.926,0.0,7,0.187,-3.469,1,0.126,99.018,4,0.432,The Fighter - feat. Ryan Tedder,Gym Class Heroes,The Papercut Chronicles II,58,1
+19,0.0142,0.602,215143,0.739,0.0,9,0.371,-5.655,1,0.0601,82.008,4,0.422,Golden (feat. Sia),Travie McCoy,Golden (feat. Sia),59,1
+20,0.132,0.362,278373,0.649,0.0113,3,0.0596,-7.094,1,0.0348,111.697,4,0.143,Dirty Paws,Of Monsters and Men,My Head Is An Animal,66,1
+21,0.101,0.537,222424,0.841,0.0,2,0.144,-4.596,1,0.183,173.743,4,0.872,Easy Loving,Heincz Gábor 'Biga',Easy Loving,24,1
+22,0.239,0.557,250533,0.638,5.13e-06,0,0.162,-7.433,1,0.031,88.057,4,0.613,Mira Dentro,Maldita Nerea,Mira Dentro,44,1
+23,0.673,0.783,170765,0.653,0.00316,7,0.12,-1.964,1,0.272,91.964,4,0.41,Tu No Metes Cabra,Bad Bunny,Tu No Metes Cabra,75,0
+24,0.556,0.753,172748,0.601,0.0,2,0.134,-4.759,1,0.0635,130.139,4,0.749,Marketing,DELLAFUENTE,Marketing,51,0
+25,0.000256,0.493,251681,0.875,0.0,7,0.0894,-3.741,1,0.0416,138.332,4,0.817,Molinos De Viento,Mägo de Oz,La Leyenda De La Mancha,63,1
+26,0.0013,0.509,229640,0.812,1.99e-05,8,0.214,-5.438,1,0.0537,159.876,4,0.689,Underneath the Tree,Kelly Clarkson,Wrapped In Red,77,1
